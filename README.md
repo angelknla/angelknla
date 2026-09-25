@@ -1,24 +1,30 @@
-## Angel Canela
+# Angel Canela
 
-Software engineer in London. I work on **lego.com** — the storefront side of it, where the interesting problems are less about any one framework and more about keeping a large TypeScript monorepo coherent while a lot of people ship into it at once.
+Software engineer in London, working on **lego.com** — building and evolving the storefront behind one of the world's best-known brands.
 
-Most of what I enjoy sits at the seams: federated GraphQL schemas that several teams own, build pipelines that have to stay fast as they grow, and the unglamorous work of making a change safe to deploy on a Friday.
+I enjoy working where **product, architecture, and engineering meet**: designing systems that are easier to change, making large codebases more reliable, and turning complex problems into simple solutions. A lot of my work sits across team boundaries, from federated GraphQL and shared frontend architecture to build pipelines, performance, accessibility, and developer experience.
+
+I'm particularly interested in **TypeScript, React, Next.js, Node.js, GraphQL, AWS, and modern engineering workflows**, including using AI and agents to make development, testing, and security work more effective.
 
 ### Working with
 
-`TypeScript` · `React` · `Next.js` · `Node` · `GraphQL` · `AWS` · `Playwright` · `pnpm`
+`TypeScript` · `React` · `Next.js` · `Node.js` · `GraphQL` · `AWS` · `Playwright` · `pnpm`
 
 ### Selected work
 
-**[portfolio](https://github.com/angelknla/portfolio)** — my personal site, built in TypeScript. The place I try things before they're worth doing at work.
+[**Portfolio**](https://github.com/angelknla/portfolio) — my personal site, built with TypeScript. A place to experiment with ideas, patterns, and technologies outside of work.
 
-Three more I keep private:
+**Sora** — a travel blog and my largest personal codebase, focused heavily on content modelling, image handling, and building a scalable content-driven experience.
 
-**Sora** — a travel blog, and the largest of my personal codebases. Most of the work went into content modelling and image handling.
+**Doroteyo** — an astrology site. Small, self-contained, and deliberately scoped — a project where the challenge was keeping the architecture simple and actually finishing the thing.
 
-**Doroteyo** — an astrology site. Small, self-contained, and a good example of scoping something tightly and finishing it.
+**FitnessJourni** — a fitness app for tracking workouts, macros, and progress with friends.
 
-**FitnessJourni** - a fitness app, to keep track of the fitness journey amongst friends, with macro tracking and workout logging.
+### How I like to work
+
+I care about the things that make software **better to live with six months later**: clear boundaries, good developer experience, meaningful tests, accessibility, performance, and changes that are safe to ship.
+
+I like digging into problems that don't have an obvious answer, learning from the people around me, and sharing what I learn along the way.
 
 ### Elsewhere
 
