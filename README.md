@@ -12,11 +12,13 @@ Most of what I enjoy sits at the seams: federated GraphQL schemas that several t
 
 **[portfolio](https://github.com/angelknla/portfolio)** — my personal site, built in TypeScript. The place I try things before they're worth doing at work.
 
-Two more I keep private:
+Three more I keep private:
 
 **Sora** — a travel blog, and the largest of my personal codebases. Most of the work went into content modelling and image handling.
 
 **Doroteyo** — an astrology site. Small, self-contained, and a good example of scoping something tightly and finishing it.
+
+**FitnessJourni** - a fitness app, to keep track of the fitness journey amongst friends, with macro tracking and workout logging.
 
 ### Elsewhere
 
