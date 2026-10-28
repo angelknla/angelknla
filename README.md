@@ -20,7 +20,7 @@ Outside work, I build personal projects to explore the whole journey from an ide
 
 **TravelBlog** — a shared travel scrapbook for trips, itineraries, and photo journals. Built around editable content, responsive image delivery, and revision checks that prevent one person's save from overwriting another's changes.
 
-[**Portfolio**](https://github.com/angelknla/portfolio) · [angelcanela.com](https://angelcanela.com) — my personal site, built with React, TypeScript, and styled-components. A space for my work and for experimenting with interface ideas.
+[**Portfolio**](https://github.com/angelknla/portfolio) · [angelcanela.com](https://angelcanela.com) — my personal site, built with Next.js, React, and TypeScript. Combines static delivery and multilingual content with browser games and a booking demo with accessible controls.
 
 ### How I like to work
 
